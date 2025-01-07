@@ -8,7 +8,7 @@
 ##### Server: Node JS, Express JS
 
 ##### Database: Mongo DB
-#### Run Locally
+## Run Locally
 ##### Clone the project :
 ##### https://github.com/RiyaHablani/Chat-App
 
