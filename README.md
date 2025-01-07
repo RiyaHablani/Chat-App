@@ -8,6 +8,11 @@
 ##### Server: Node JS, Express JS
 
 ##### Database: Mongo DB
+
+## Features
+### ![Authentication](https://github.com/RiyaHablani/Chat-App/blob/master/login.PNG)
+
+
 ## Run Locally
 ##### Clone the project :
 ##### https://github.com/RiyaHablani/Chat-App
@@ -27,7 +32,4 @@
 ##### //Open a new terminal and run:
 ##### cd frontend
 ##### npm start
-
-## Features
-
 
