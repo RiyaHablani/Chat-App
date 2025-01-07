@@ -12,8 +12,25 @@
 ## Features
 ### Authentication
 ![](https://github.com/RiyaHablani/Chat-App/blob/master/login.PNG)
+![](https://github.com/RiyaHablani/Chat-App/blob/master/signup.PNG)
 
+### Real Time Chatting with Typing indicators
+![](https://github.com/RiyaHablani/Chat-App/blob/master/real-time.PNG)
 
+### One to One chat
+![](https://github.com/RiyaHablani/Chat-App/blob/master/mainscreen.PNG)
+
+### Search Users
+![](https://github.com/RiyaHablani/Chat-App/blob/master/add%20rem.PNG)
+
+### Create Group Chats
+![](https://github.com/RiyaHablani/Chat-App/blob/master/new%20grp.PNG)
+
+### Notifications
+![](https://github.com/RiyaHablani/Chat-App/blob/master/group%20%2B%20notif.PNG)
+
+### Add or Remove users from group
+![](https://github.com/RiyaHablani/Chat-App/blob/master/new%20grp.PNG)
 
 ## Run Locally
 ##### Clone the project :
